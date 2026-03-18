@@ -1,31 +1,32 @@
-<h1 align="center">Hi 👋, I'm Daniel Minseo Choi</h1>
-<h3 align="center">Non-Developer who does coding just for fun.</h3>
+## Currently
 
+- Working at Verisign full-time in Computer Operations Support
+- Building [OMG](https://github.com/trac3er00/OMG), a governance and orchestration layer for AI coding agents
+- Preparing security-focused lab and detection projects such as [detection-lab](https://github.com/trac3er00/detection-lab) and [wazuh-ai-siem](https://github.com/trac3er00/wazuh-ai-siem)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/minseo-choi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minseo-choi" height="30" width="40" /></a>
+## Focus
+
+- Hunting threats and triaging alerts with a bias for clarity and action
+- Building dashboards and workflows that make noisy systems easier to operate
+- Learning continuously through production support, lab work, and security study
+
+## GitHub Activity
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Trac3er00&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats for Trac3er00" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Trac3er00&hide_border=true&theme=transparent" alt="GitHub contribution streak for Trac3er00" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank rel=noreferrer"> <img src="https://devblogs.microsoft.com/powershell/wp-content/uploads/sites/30/2018/09/Powershell_256.png" alt="powershell" width="40" height="40"/> </a> </p>
+## Career
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Trac3er00&show_icons=true&locale=en&layout=compact" alt="Trac3er00" /></p>
+- **Computer Operations Engineer** @ [Verisign](https://www.verisign.com/) (2024.04 - Present)
+- **IT Support Specialist** @ [Loudoun Country Day School](https://www.lcds.org/) (2021.07 - 2024.04)
+- **Junior System Administrator** @ [Zencere Solutions](https://www.zencere.com/) (2022.06 - 2023.05)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Trac3er00&show_icons=true&locale=en" alt="Trac3er00" /></p>
+## Education
 
+- [University of Maryland Global Campus](https://www.umgc.edu/) - B.S. in Cybersecurity (2025 - Present)
 
-<!--
-**minseochoi00/minseochoi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Core Tools
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Linux` `Bash` `PowerShell` `Azure` `Docker` `Git`

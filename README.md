@@ -2,7 +2,7 @@
 
 - Working at Verisign full-time in Computer Operations Support
 - Building [OMG](https://github.com/trac3er00/OMG), a governance and orchestration layer for AI coding agents
-- Preparing security-focused lab and detection projects such as [detection-lab](https://github.com/trac3er00/detection-lab) and [wazuh-ai-siem](https://github.com/trac3er00/wazuh-ai-siem)
+- Preparing security-focused lab and detection projects such as [detection-lab](https://github.com/trac3r00/detection-lab) and [wazuh-ai-siem](https://github.com/trac3r00/wazuh-ai-siem)
 
 ## Focus
 
@@ -13,8 +13,8 @@
 ## GitHub Activity
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Trac3er00&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats for Trac3er00" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Trac3er00&hide_border=true&theme=transparent" alt="GitHub contribution streak for Trac3er00" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=trac3r00&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats for Trac3er00" />
+  <img height="165" src="https://streak-stats.demolab.com?user=trac3r00&hide_border=true&theme=transparent" alt="GitHub contribution streak for Trac3er00" />
 </p>
 
 ## Career

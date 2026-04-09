@@ -13,7 +13,6 @@
 ## GitHub Activity
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=trac3r00&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats for trac3r00"/>
   <img height="165" src="https://streak-stats.demolab.com?user=trac3r00&hide_border=true&theme=transparent" alt="GitHub contribution streak for trac3r00" />
 </p>
 
